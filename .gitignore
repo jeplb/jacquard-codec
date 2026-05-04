@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+target/
+*.so
+*.dylib
+*.whl
+.DS_Store
+*.npy.bak
